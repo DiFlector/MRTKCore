@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d82bb8715b5ce42a92bdb91397d6d9, type: 3}
+  m_Name: New Items Config
+  m_EditorClassIdentifier: 
+  Items:
+  - Title: Cubeq
+    Prefab: {fileID: 7239040955599530404, guid: 64672715cb1bfb1458d4396b691650f0, type: 3}
+    Price: 100
+  - Title: Cubeqqqqq
+    Prefab: {fileID: 7239040955599530404, guid: 64672715cb1bfb1458d4396b691650f0, type: 3}
+    Price: 11
