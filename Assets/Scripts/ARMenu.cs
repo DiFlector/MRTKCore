@@ -57,7 +57,7 @@ public class ARMenu : MonoBehaviour
     private IEnumerator UpdateCollection()
     {
         yield return new WaitForEndOfFrame();
-        _TextMeshPro.text = "Магазин. Доски: " + _playerMoney._moneyAmount;
+        _TextMeshPro.text = "Shop! Money: " + _playerMoney._moneyAmount;
         _gridObjectCollection.UpdateCollection();
     }
    
